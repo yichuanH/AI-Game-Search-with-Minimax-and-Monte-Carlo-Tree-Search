@@ -27,17 +27,13 @@ You can play **Human vs Human**, **Human vs AI (MCTS)**, or **AI vs AI** and mea
 
 ---
 
-## Project Structure
-
-├─ main_r6.py # Pygame UI, game loop, turn handling, move application, scoring
-└─ MCTS.py # MCTS tree, selection/expansion/rollout/backprop, hex state encoding
 
 How to Run
-# Human vs AI(MCTS)
+### Human vs AI(MCTS)
 python main_r6.py human random
 
-# AI(MCTS) vs AI(MCTS)
+### AI(MCTS) vs AI(MCTS)
 python main_r6.py random random
 
-# Human vs Human
+### Human vs Human
 python main_r6.py human human
