@@ -1,8 +1,8 @@
-<img width="710" height="684" alt="截圖 2025-10-17 下午2 19 32" src="https://github.com/user-attachments/assets/da9837dd-0ec2-4336-ab24-d3576b11d14d" /># Defeat Lin: AI Game Search with Minimax/MCTS for a Hex-Grid “Strands”-Style Game
+Defeat Lin: AI Game Search with Minimax/MCTS for a Hex-Grid “Strands”-Style Game
 
 > NYCU Artificial Intelligence (Spring 2024) – Project 2
 
-<img width="710" height="684" alt="截圖 2025-10-17 下午2 19 32" src="https://github.com/user-attachments/assets/30244ae1-6ba2-4067-a3be-ca0071d69875" />
+<img width="355" height="342" alt="截圖 2025-10-17 下午2 19 32" src="https://github.com/user-attachments/assets/30244ae1-6ba2-4067-a3be-ca0071d69875" />
 
 This project implements a hex-grid, turn-based game (inspired by the “Strands” assignment story) and an AI agent powered by **Monte Carlo Tree Search (MCTS)**.  
 You can play **Human vs Human**, **Human vs AI (MCTS)**, or **AI vs AI** and measure strategy effectiveness via the final connected-component score.
