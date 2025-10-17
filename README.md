@@ -23,7 +23,7 @@ You can play **Human vs Human**, **Human vs AI (MCTS)**, or **AI vs AI** and mea
 
 - The board is a hexagon-shaped grid. Each cell has a **label** (1/2/3/5/6) roughly based on its ring/position. :contentReference[oaicite:9]{index=9}
 - **Round 1**: the current player must select **one** cell labeled **2**.  
-- **Round ≥ 2**: the first clicked cell in that round sets the **label n** for the round, and the player must select **n** cells of that same label in the round. (If剩餘數量不足則需全選。) :contentReference[oaicite:10]{index=10}
+- **Round ≥ 2**: the first clicked cell in that round sets the **label n** for the round, and the player must select **n** cells of that same label in the round. :contentReference[oaicite:10]{index=10}
 - Players alternate **black → white → black → …**  
 - Game ends when all cells are selected. The winner is the player with the **largest connected component** of their color. (6-neighbor connectivity on the hex grid.) :contentReference[oaicite:11]{index=11}
 
